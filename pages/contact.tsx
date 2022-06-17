@@ -1,6 +1,8 @@
 /** @format */
+import { NextPage } from 'next';
 
-const ContactPage = () => {
+
+const ContactPage: NextPage = () => {
 	return <div>ContactPage</div>;
 };
 
